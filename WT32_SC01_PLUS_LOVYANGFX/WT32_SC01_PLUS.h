@@ -132,7 +132,7 @@ public:
       cfg.panel_height = 480;  // actual displayable height
       cfg.offset_x = 0;        // Panel offset in X direction
       cfg.offset_y = 0;        // Panel offset in Y direction
-#ifdef PORTRAIT
+#ifdef TFT_PORTRAIT
       cfg.offset_rotation = 2;
 #else
       cfg.offset_rotation = 3;
@@ -223,10 +223,6 @@ void init_display() {
 
     //LOVYAN_GFX
     tft.init();
-
-    #ifdef TFT_PORTRAIT
-      tft.setRotation(3);
-    #endif
 
     tft.initDMA();
     tft.startWrite();
