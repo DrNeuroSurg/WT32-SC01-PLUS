@@ -10,7 +10,7 @@ You should 1st copy the file "lv_conf.h" from this Repo (in "lvgl") to your Ardu
 
 Used (arduiono libraries:
 
-lvgl V 9.x
+LVGL V 9.x
 
 LoyanGFX
 
