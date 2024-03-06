@@ -15,5 +15,5 @@ LVGL V 9.x
 LoyanGFX
 
 For 3D-Demo:
-TGX  forked from https://github.com/vindar/tgx
+TGX-Demo "Naruto" forked from https://github.com/vindar/tgx
 
