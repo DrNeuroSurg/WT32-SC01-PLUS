@@ -8,7 +8,7 @@ As destination you should (and must) select "ESP32S3 Dev Module" - NOT "ESP32C3"
 
 You should 1st copy the file "lv_conf.h" from this Repo to your Arduino/libraries folder
 
-Used (arduiono libraries:
+Used Arduiono libraries:
 
 LVGL V 9.x
 
