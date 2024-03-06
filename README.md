@@ -4,7 +4,7 @@ Some attempts to use the WT32-SC01-Plus module using Arduino-IDE.
 
 As destination you should (and must) select "ESP32S3 Dev Module" - NOT "ESP32C3" !!!
 
-(Settings in every *.ino - file
+(Settings in every *.ino - file)
 
 You should 1st copy the file "lv_conf.h" from this Repo (in "lvgl") to your Arduino/libraries folder
 
