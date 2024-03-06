@@ -232,17 +232,6 @@ void loop() {
     if (prev_loopnumber != loopnumber)
     {
       prev_loopnumber = loopnumber;
-
-      // tft.fillRect(0, 300, 240, 20, TFT_BLACK);
-      // tft.setCursor(5, 305);
-
-      // switch (loopnumber % 4)
-      //     {
-      //     case 0: tft.print("Gouraud shading / texturing"); break;
-      //     case 1: tft.print("Wireframe"); break;
-      //     case 2: tft.print("Flat Shading"); break;
-      //     case 3: tft.print("Gouraud shading"); break;
-      //     }
     }
 
 
