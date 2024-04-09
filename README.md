@@ -1,4 +1,4 @@
-# WT32-SC01-PLUS
+# WT32-SC01-PLUS with LVGL 9.x
 
 Some attempts to use the WT32-SC01-Plus module using Arduino-IDE.
 
