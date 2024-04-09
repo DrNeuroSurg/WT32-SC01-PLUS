@@ -15,7 +15,10 @@ Version 9.1.0
 ESP32-AudioI2S
 Version 3.0.7c
 https://github.com/schreibfaul1/ESP32-audioI2S
-
+(to install:
+    downlad ZIP from URL above
+    add this ZIP-File via Arduino->Sketch->Include Library ->Add .ZIP Library..
+)
 
 Board: ESP32S3 Dev Module
 
