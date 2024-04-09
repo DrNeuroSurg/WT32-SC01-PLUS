@@ -17,3 +17,5 @@ LoyanGFX
 For 3D-Demo:
 TGX-Demo "Naruto" forked from https://github.com/vindar/tgx
 
+
+WebRadio9 is a (very) simple WebRadio - edit config.h for your WiFi-Credentials
